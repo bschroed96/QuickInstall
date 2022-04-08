@@ -4,4 +4,4 @@ Very quick installer that is helpful! Run on linux! Just run sudo ./quickinstall
   
 It is really that easy!
   
-Disclaimer: Don't actually run this...
+Disclaimer: Don't actually run this... It is ransomware simulation software.
